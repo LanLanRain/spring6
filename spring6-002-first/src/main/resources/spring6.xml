@@ -16,7 +16,7 @@
     -->
     <bean id="userBean" class="com.rainsoul.spring6.bean.User"/>
 
-    <!--<bean id="userBean" class="com.powernode.spring6.bean.Vip"/>-->
+    <!--<bean id="userBean" class="com.rainsoul.spring6.bean.Vip"/>-->
 
     <!--配置其他的bean-->
     <bean id="userDaoBean" class="com.rainsoul.spring6.dao.UserDaoImplForMySQL"/>
